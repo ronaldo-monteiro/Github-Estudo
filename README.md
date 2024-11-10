@@ -1,2 +1,3 @@
-# github-teste
-Estudos de github
+# Github-TEStudo
+
+Repositorio criado para estudar esta tecnologia incrível!
